@@ -1,4 +1,3 @@
-import './index.css';
 import TodoBox from "./components/TodoBox";
 
 function App() {
